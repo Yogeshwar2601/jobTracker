@@ -107,7 +107,7 @@ Install the following before running JobTrack:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Yogeshwar2601/jobTracker.git
+git clone https://github.com/Yogeshwar2601/jobTracker
 cd jobTracker
 ```
 
